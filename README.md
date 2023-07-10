@@ -9,4 +9,4 @@ This program has the goal of taking a list of municipalities in Nigeria and outp
 2. Each municipality is searched in Google Maps.  The state location of any results in the target country (Nigeria) will be stored in a set (to prevent duplicates) and then written to the excel file.
 
 #### Use case
-I had a friend working on a Gov project who had an excel file of municipalities in Nigeria but needed the states they were in to continue with his research. I wanted to build a program to solve this problem in a fun way.  Unfortunately, before this program was up and running, my friend found a dataset online that he could use to find what he needed :sob:
+I had a friend working on a Gov project who had an excel file of municipalities in Nigeria but needed the states they were in to continue with his research. I wanted to build a program to solve this problem in a fun way.  Unfortunately, before this program was up and running, my friend found a dataset online that he could use to find what he needed.
